@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-'''
-    Starts a Flask web application.Displays  “Hello HBNB!”
-'''
+'''Starts a Flask web application.Displays  “Hello HBNB!”'''
 
 from flask import Flask
 
